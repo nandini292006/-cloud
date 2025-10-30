@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>College Image Example</title>
+</head>
+<body>
+
+  <h1>Welcome to My College</h1>
+  
+  <!-- Image tag -->
+  <img src="college.jpg" alt="College Campus" width="600" height="400">
+
+</body>
+</html>
